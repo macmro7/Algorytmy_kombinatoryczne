@@ -1,1 +1,1 @@
-#Implementacja wybranych algorytmów
+Implementacja wybranych algorytmów
