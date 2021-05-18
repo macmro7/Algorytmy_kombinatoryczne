@@ -1,1 +1,1 @@
-# Algorytmy_kombinatoryczne
+Implementacja wybranych algorytmów
